@@ -2,7 +2,7 @@ package mikleg.myblog.models;
 
 import javax.persistence.*;
 import java.util.List;
-
+@Entity
 public class UserCategory {
     @Id
     @GeneratedValue

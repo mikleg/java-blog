@@ -27,3 +27,5 @@ public class HomeController {
         return "index";
     }
 }
+
+//TODO Implement the “List latest 5 Posts” at the Home Page Sidebar

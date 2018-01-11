@@ -28,4 +28,5 @@ public class HomeController {
     }
 }
 
-//TODO Implement the “List latest 5 Posts” at the Home Page Sidebar
+//TODO Implement the “List latest 5 Posts” at the Home Page Sidebar /done
+//TODO change template of view.html to bootstrap
